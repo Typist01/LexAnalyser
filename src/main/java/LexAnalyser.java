@@ -4,15 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LexAnalyser {
-//    public static void main(String[] args) {
-//        String myString = "This is an example string";
-////        System.out.println(getWordsCount(myString));
-////        System.out.println(getCharNum(myString));
-////        System.out.println(myString);
-////        getCharMap(myString);
-//        HashMap<String, Integer> myCharMap = getCharMap(myString);
-//        System.out.println(myCharMap);
-//    }
+
 
 
     public String removeExtraCharacters(String sentence){

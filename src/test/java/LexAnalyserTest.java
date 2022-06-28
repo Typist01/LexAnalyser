@@ -20,7 +20,7 @@ public class LexAnalyserTest {
     @Test
     void removeCharactersTest(){
         Assertions.assertEquals("this is a string without commas",analyser.removeExtraCharacters("this, is, a string, without commas,"));
-//        Assertions.assertEquals("this is a string without comas",analyser.removeExtraCharacters("this $ is ,a;! string £ without* comas; "));
+
     }
 
 
